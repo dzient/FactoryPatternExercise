@@ -1,0 +1,15 @@
+C:\Users\kc2us\source\repos\FactoryPattternExercise\FactoryPattternExercise\obj\Debug\net6.0\FactoryPattternExercise.csproj.AssemblyReference.cache
+C:\Users\kc2us\source\repos\FactoryPattternExercise\FactoryPattternExercise\obj\Debug\net6.0\FactoryPattternExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kc2us\source\repos\FactoryPattternExercise\FactoryPattternExercise\obj\Debug\net6.0\FactoryPattternExercise.AssemblyInfoInputs.cache
+C:\Users\kc2us\source\repos\FactoryPattternExercise\FactoryPattternExercise\obj\Debug\net6.0\FactoryPattternExercise.AssemblyInfo.cs
+C:\Users\kc2us\source\repos\FactoryPattternExercise\FactoryPattternExercise\obj\Debug\net6.0\FactoryPattternExercise.csproj.CoreCompileInputs.cache
+C:\Users\kc2us\source\repos\FactoryPattternExercise\FactoryPattternExercise\bin\Debug\net6.0\FactoryPattternExercise.exe
+C:\Users\kc2us\source\repos\FactoryPattternExercise\FactoryPattternExercise\bin\Debug\net6.0\FactoryPattternExercise.deps.json
+C:\Users\kc2us\source\repos\FactoryPattternExercise\FactoryPattternExercise\bin\Debug\net6.0\FactoryPattternExercise.runtimeconfig.json
+C:\Users\kc2us\source\repos\FactoryPattternExercise\FactoryPattternExercise\bin\Debug\net6.0\FactoryPattternExercise.dll
+C:\Users\kc2us\source\repos\FactoryPattternExercise\FactoryPattternExercise\bin\Debug\net6.0\FactoryPattternExercise.pdb
+C:\Users\kc2us\source\repos\FactoryPattternExercise\FactoryPattternExercise\obj\Debug\net6.0\FactoryPattternExercise.dll
+C:\Users\kc2us\source\repos\FactoryPattternExercise\FactoryPattternExercise\obj\Debug\net6.0\refint\FactoryPattternExercise.dll
+C:\Users\kc2us\source\repos\FactoryPattternExercise\FactoryPattternExercise\obj\Debug\net6.0\FactoryPattternExercise.pdb
+C:\Users\kc2us\source\repos\FactoryPattternExercise\FactoryPattternExercise\obj\Debug\net6.0\FactoryPattternExercise.genruntimeconfig.cache
+C:\Users\kc2us\source\repos\FactoryPattternExercise\FactoryPattternExercise\obj\Debug\net6.0\ref\FactoryPattternExercise.dll
